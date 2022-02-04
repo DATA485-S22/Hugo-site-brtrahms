@@ -1,0 +1,16 @@
+---
+title: "The Future"
+author: "Ron Johnson"
+date: 2025-12-01T21:13:14-05:00
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Welcome
+
+The future is nigh!!
+
